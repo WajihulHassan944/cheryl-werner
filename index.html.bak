@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<!-- This site was created in Webflow. https://webflow.com -->
+<!-- Last Published: Thu Jan 11 2024 16:53:21 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.taylordunhamdesign.com" data-wf-page="5ca82226b74e5ae2a80e549c" data-wf-site="5c93a95c5bef9b2a405395da" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>CHERYL WERNER</title>
+    <meta content="Taylor Dunham uses design services to solve problems and build engagement for brands with a purpose greater than simple profitability." name="description" />
+    <meta content="Taylor Dunham Design | Design for Good" property="og:title" />
+    <meta content="Taylor Dunham uses design services to solve problems and build engagement for brands with a purpose greater than simple profitability." property="og:description" />
+    <meta content="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5ca60cc16c4cac0f694220f9_open-graph.png" property="og:image" />
+    <meta content="Taylor Dunham Design | Design for Good" property="twitter:title" />
+    <meta content="Taylor Dunham uses design services to solve problems and build engagement for brands with a purpose greater than simple profitability." property="twitter:description" />
+    <meta content="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5ca60cc16c4cac0f694220f9_open-graph.png" property="twitter:image" />
+    <meta property="og:type" content="website" />
+    <meta content="summary_large_image" name="twitter:card" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Webflow" name="generator" />
+    <link href="https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/css/taylordunhamdesign.webflow.7b744d2aa.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        WebFont.load({
+            google: {
+                families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]
+            }
+        });
+    </script>
+    <script src="https://use.typekit.net/muv5aoo.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        try {
+            Typekit.load();
+        } catch (e) {}
+    </script>
+    <script type="text/javascript">
+        ! function(o, c) {
+            var n = c.documentElement,
+                t = " w-mod-";
+            n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+        }(window, document);
+    </script>
+    <link href="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5ca4bb4c881b0ddbd398dd77_favicon.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5ca4bb6542e385439ba0ba6e_touch-icon.png" rel="apple-touch-icon" />
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137577901-1"></script>
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-137577901-1', {
+            'anonymize_ip': false
+        });
+    </script>
+    <style>
+        .home-cs-white-box {
+            pointer-events: none;
+        }
+    </style>
+
+    <meta name="p:domain_verify" content="48e7641eea27fc426cc9dd88c2ec018c" />
+</head>
+
+<body>
+    <div class="left-sidebar">
+        <div class="hello-text">Oh, hello!</div>
+        <div class="sidebar-links">
+            <div class="w-embed"><a class="social-link" href="#" target="blank">
+  <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M0 11.5C0 9.41466 0.513682 7.49034 1.541 5.727C2.56834 3.96366 3.96368 2.56834 5.727 1.541C7.49034 0.513659 9.41468 0 11.5 0C13.5853 0 15.5097 0.513659 17.273 1.541C19.0363 2.56834 20.4317 3.96366 21.459 5.727C22.4863 7.49034 23 9.41466 23 11.5C23 13.5853 22.4863 15.5097 21.459 17.273C20.4317 19.0363 19.0363 20.4317 17.273 21.459C15.5097 22.4863 13.5853 23 11.5 23C9.41468 23 7.49034 22.4863 5.727 21.459C3.96368 20.4317 2.56834 19.0363 1.541 17.273C0.513682 15.5097 0 13.5853 0 11.5ZM1.909 11.5C1.909 13.892 2.714 16.0003 4.324 17.825C5.06 16.3837 6.22534 15.0113 7.82 13.708C9.41468 12.4047 10.971 11.5843 12.489 11.247C12.259 10.7103 12.0367 10.2273 11.822 9.798C9.18468 10.6413 6.33268 11.063 3.266 11.063C2.668 11.063 2.22334 11.0553 1.932 11.04C1.932 11.1013 1.92818 11.178 1.9205 11.27C1.91284 11.362 1.909 11.4387 1.909 11.5ZM3.703 9.177C3.04368 9.177 2.54534 9.16166 2.208 9.131C2.56068 7.81234 3.17018 6.60866 4.0365 5.52C4.90284 4.43134 5.94168 3.58034 7.153 2.967C8.54834 4.347 9.82868 6.072 10.994 8.142C8.694 8.832 6.26368 9.177 3.703 9.177ZM5.635 19.067C7.36768 20.4163 9.32268 21.091 11.5 21.091C12.6347 21.091 13.7617 20.8763 14.881 20.447C14.5743 17.825 13.9763 15.2873 13.087 12.834C11.6763 13.1407 10.2542 13.915 8.8205 15.157C7.38684 16.399 6.325 17.7023 5.635 19.067ZM12.903 7.452C11.753 5.36666 10.5033 3.62634 9.154 2.231C9.936 2.01634 10.718 1.909 11.5 1.909C13.8 1.909 15.8393 2.645 17.618 4.117C16.56 5.46634 14.9883 6.578 12.903 7.452ZM13.731 9.085C13.961 9.57566 14.2217 10.1967 14.513 10.948C15.6477 10.8407 16.882 10.787 18.216 10.787C19.1667 10.787 20.1097 10.81 21.045 10.856C20.9223 8.77066 20.171 6.91534 18.791 5.29C17.7943 6.77734 16.1077 8.04234 13.731 9.085ZM16.675 19.55C16.399 17.158 15.87 14.8273 15.088 12.558C16.1613 12.4813 17.1197 12.443 17.963 12.443C18.883 12.443 19.9027 12.4813 21.022 12.558C20.8687 13.984 20.4087 15.3103 19.642 16.537C18.8753 17.7637 17.8863 18.768 16.675 19.55Z" fill="currentColor"/>
+  </svg>
+</a>
+                <a class="social-link" href="#" target="blank">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+    <g fill="currentColor">
+      <path d="M12,2.162c3.204,0,3.584,0.012,4.849,0.07c1.366,0.062,2.633,0.336,3.608,1.311 c0.975,0.975,1.249,2.242,1.311,3.608c0.058,1.265,0.07,1.645,0.07,4.849s-0.012,3.584-0.07,4.849 c-0.062,1.366-0.336,2.633-1.311,3.608c-0.975,0.975-2.242,1.249-3.608,1.311c-1.265,0.058-1.645,0.07-4.849,0.07 s-3.584-0.012-4.849-0.07c-1.366-0.062-2.633-0.336-3.608-1.311c-0.975-0.975-1.249-2.242-1.311-3.608 c-0.058-1.265-0.07-1.645-0.07-4.849s0.012-3.584,0.07-4.849c0.062-1.366,0.336-2.633,1.311-3.608 c0.975-0.975,2.242-1.249,3.608-1.311C8.416,2.174,8.796,2.162,12,2.162 M12,0C8.741,0,8.332,0.014,7.052,0.072 c-1.95,0.089-3.663,0.567-5.038,1.942C0.639,3.389,0.161,5.102,0.072,7.052C0.014,8.332,0,8.741,0,12 c0,3.259,0.014,3.668,0.072,4.948c0.089,1.95,0.567,3.663,1.942,5.038c1.375,1.375,3.088,1.853,5.038,1.942 C8.332,23.986,8.741,24,12,24s3.668-0.014,4.948-0.072c1.95-0.089,3.663-0.567,5.038-1.942c1.375-1.375,1.853-3.088,1.942-5.038 C23.986,15.668,24,15.259,24,12s-0.014-3.668-0.072-4.948c-0.089-1.95-0.567-3.663-1.942-5.038 c-1.375-1.375-3.088-1.853-5.038-1.942C15.668,0.014,15.259,0,12,0L12,0z"/> 
+      <path d="M12,5.838c-3.403,0-6.162,2.759-6.162,6.162S8.597,18.162,12,18.162s6.162-2.759,6.162-6.162 S15.403,5.838,12,5.838z M12,16c-2.209,0-4-1.791-4-4s1.791-4,4-4s4,1.791,4,4S14.209,16,12,16z"/> 
+      <circle cx="18.406" cy="5.594" r="1.44"/>
+    </g>
+  </svg>
+</a>
+                <a class="social-link" href="#" target="blank">
+  <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="19" height="19">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H19V19H0V0Z" fill="white"/>
+  </mask>
+  <g mask="url(#mask0)">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4803 16.4051H13.4327C13.4327 16.1131 13.4394 15.8146 13.4315 15.5167C13.3899 13.9354 13.3815 12.3522 13.2818 10.7746C13.2437 10.1718 12.8679 9.72021 12.1562 9.70617C11.2659 9.68842 10.7995 9.97387 10.6133 10.7245C10.5244 11.0816 10.4798 11.4577 10.4763 11.8258C10.4615 13.3418 10.47 14.858 10.47 16.4181H7.461V7.12164H10.2954C10.3176 7.41437 10.3372 7.67373 10.3621 8.0009C10.7058 7.7389 10.9866 7.41066 11.3424 7.27277C13.4141 6.46968 16.2275 6.83606 16.4519 10.0043C16.6009 12.109 16.4803 14.2327 16.4803 16.4051ZM4.25856 6.13085C3.24788 6.12913 2.47684 5.39226 2.47364 4.42518C2.47003 3.35809 3.24107 2.56957 4.28035 2.57765C5.31575 2.58559 6.0646 3.3422 6.05939 4.37484C6.05404 5.39915 5.30185 6.13257 4.25856 6.13085ZM2.80309 16.4225H5.72967V7.12058H2.80309V16.4225ZM16.6036 0H2.39652C1.07296 0 0 1.06338 0 2.37512V16.625C0 17.9368 1.07296 19 2.39652 19H16.6036C17.927 19 19 17.9368 19 16.625V2.37512C19 1.06338 17.927 0 16.6036 0Z" fill="currentColor"/>
+  </g>
+  </svg>
+</a>
+                <a class="social-link" href="#" target="blank">
+  <svg width="19" height="15" viewBox="0 0 19 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.1779 4.53436C9.1779 4.53436 8.7354 1.26531 11.7141 0.265057C11.7141 0.265057 14.2499 -0.734916 15.9409 1.14971C15.9409 1.14971 17.9133 0.84209 18.3561 0.265057C18.3561 0.265057 18.2351 1.42326 16.8664 2.26714C16.8664 2.26714 18.1147 2.26514 19 1.80357C19 1.80357 17.7546 3.29177 17.2157 3.52384C16.6658 3.72669 17.7525 7.07342 14.4918 11.035C14.4918 11.035 12.021 14.2268 7.40641 14.8427C5.52989 15.0934 2.77763 15.3041 0 13.3043C0 13.3043 2.81761 13.6503 5.63552 11.6502C5.63552 11.6502 2.7372 11.4194 2.05271 9.11171C2.05271 9.11171 3.38125 9.11186 3.66307 9.07337C3.66307 9.07337 0.563343 8.07311 0.603923 5.2461C0.603923 5.2461 1.6502 5.68843 2.23398 5.6307C2.23398 5.6307 -0.382524 3.76489 1.16727 0.688138C1.16727 0.688138 3.98517 4.45739 9.1779 4.53436Z" fill="currentColor"/>
+  </svg>
+</a>
+                <a class="social-link" href="#" target="blank">
+  <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5.95284H1.92848V5.10832V4.28118V4.14317C1.92848 3.34693 1.94982 2.11632 2.54978 1.35458C3.18189 0.548037 4.04969 0 5.5428 0C7.97467 0 9 0.334204 9 0.334204L8.51768 3.0919C8.51768 3.0919 7.71417 2.86776 6.96415 2.86776C6.21413 2.86776 5.5428 3.12627 5.5428 3.85016V4.14317V5.10832V5.95284H8.61745L8.40324 8.64488H5.5428V18H1.92848V8.64488H0V5.95284Z" fill="currentColor"/>
+  </svg>
+</a></div><a href="https://facebook.com/alinecollective" class="social-link hidden w-inline-block"></a></div>
+    </div>
+    <div data-collapse="small" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="header w-nav"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5c93a95c5bef9b803c5395f7_white-corner.svg" width="35" height="35" alt="" class="header-corner" />
+        <div class="nav-container"><a href="/" aria-current="page" class="logo-link w-nav-brand w--current">
+CHERYL WERNER	
+	</a>
+            <nav
+                role="navigation" class="nav-menu w-nav-menu"><a href="/about" class="nav-link w-nav-link">About</a><a href="/services" class="nav-link w-nav-link">Services</a>
+				
+				<a href="/connect" class="nav-link w-nav-link">Connect</a>
+                <a
+                    href="/giving-back" class="nav-link givebacknav w-nav-link">Giving Back</a>
+					
+					</nav>
+                    <div class="hamburger-menu w-nav-button">
+                        <div class="w-icon-nav-menu"></div>
+                    </div>
+        </div>
+    </div>
+    <section class="hero-section">
+        <div class="hero-full-container w-container">
+            <div class="hero-container" style="display:flex; gap:50px;">
+<div>			   
+			   <h1 class="hero-heading">Hi! My name is Cheryl.</h1>
+               
+			    <p>As an art director and designer, I am passionate about using my skills to create work that goes beyond aesthetics. For me, design is about storytelling, weaving narrative and conceptual thinking into each project to create something meaningful. I thrive on purpose-driven projects that align with my values, believing that design has the power to inspire change and connect people in deeper ways.</p>
+      </div>      
+<img src="cheryl copy.jpg" style="width:350px;height:400px; object-fit:cover;">
+		   </div>
+        </div>
+    </section>
+	
+    <section
+        class="center-section">
+        <div class="centercontainer w-container">
+            <div class="columns w-row">
+                <div class="home-body-column-1 w-col w-col-6 w-col-stack">
+                    <h2 class="heading-5">Design is a tool. Let’s use it to solve problems in your business.</h2><a href="/connect" class="dark-button button-top-padding">start here</a></div>
+                <div class="home-body-column-2 w-col w-col-6 w-col-stack">
+                    <p class="paragraph-2">Struggling to engage your audience and expand your impact in the world? Design is the solution. </p>
+                    <p class="paragraph-3">Unsure how to share the importance of your work, the heart of your mission, the value you create in the world? <strong>The answer is design.</strong></p>
+                </div>
+            </div>
+         <!--   <h5 class="small-caps homecstitle">Case Studies</h5>
+            <a href="/case-study/hibts" class="home-cs w-inline-block">
+                <div class="home-cs-box-holder">
+                    <div class="home-cs-number">01</div>
+                    <div class="home-cs-details">
+                        <h4 class="home-cs-client">NPR&#x27;s &#x27;How i built this&#x27; </h4>
+                        <h6 class="case-study-title"><strong>Designing a space for innovation and creativity</strong></h6><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5eb1c7ff6ed39277ae586328_Home-CS-HIBTS.png" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
+                            srcset="https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/5eb1c7ff6ed39277ae586328_Home-CS-HIBTS-p-500.png 500w, https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/5eb1c7ff6ed39277ae586328_Home-CS-HIBTS.png 800w"
+                            class="home-cs-mobile-image" />
+                        <p class="home-cs-description"><br/>Strengthening a beloved NPR brand with thoughtful design and dedicated collaboration.</p>
+                        <div class="small-caps">Read more &gt;</div>
+                    </div>
+                    <div class="home-cs-white-box"></div>
+                </div>
+                <div class="home-cs-image-wrapper"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5eb1c7ff6ed39277ae586328_Home-CS-HIBTS.png" width="400" sizes="(max-width: 767px) 100vw, 400px" srcset="https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/5eb1c7ff6ed39277ae586328_Home-CS-HIBTS-p-500.png 500w, https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/5eb1c7ff6ed39277ae586328_Home-CS-HIBTS.png 800w"
+                        alt="" class="home-cs-image" /></div>
+            </a>
+            <a href="/case-study/grounded" class="home-cs w-inline-block">
+                <div class="home-cs-box-holder">
+                    <div class="home-cs-number">02</div>
+                    <div class="home-cs-details">
+                        <h4 class="home-cs-client">grounded</h4>
+                        <h6 class="case-study-title"><strong>Empowering a movement to end cycles of trauma</strong></h6><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5e4443e473d30be7605ac0a9_Home-CS-Grounded-sm.jpg" alt="CURA heart icon" class="home-cs-mobile-image"
+                        />
+                        <p class="home-cs-description">Working with Good Measure in a 72 hour sprint to help Grounded share a message of hope and healing and reduce youth violence in Memphis, Tennessee.</p>
+                        <div class="small-caps">Read more &gt;</div>
+                    </div>
+                    <div class="home-cs-white-box"></div>
+                </div>
+                <div class="home-cs-image-wrapper"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5e4443e473d30be7605ac0a9_Home-CS-Grounded-sm.jpg" width="400" alt="" class="home-cs-image" /></div>
+            </a>
+            <a href="/case-study/the-new-york-times-helf" class="home-cs w-inline-block">
+                <div class="home-cs-box-holder">
+                    <div class="home-cs-number">03</div>
+                    <div class="home-cs-details">
+                        <h4 class="home-cs-client">the new york times</h4>
+                        <h6 class="case-study-title"><strong>Bringing thought leaders together in an environment of exploration</strong></h6><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5ca3ce1c84964181a20f03af_Home-CS-NYT.jpg" alt="CURA heart icon" class="home-cs-mobile-image"
+                        />
+                        <p class="home-cs-description">Fostering an environment for dialogue and discussion during the New York Times Higher Ed Leader’s Forum 2019.</p>
+                        <div class="small-caps">Read more &gt;</div>
+                    </div>
+                    <div class="home-cs-white-box"></div>
+                </div>
+                <div class="home-cs-image-wrapper"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5ca3ce1c84964181a20f03af_Home-CS-NYT.jpg" width="400" alt="" class="home-cs-image" /></div>
+            </a>
+            <a href="/case-study/give2asia" class="home-cs w-inline-block">
+                <div class="home-cs-box-holder">
+                    <div class="home-cs-number">04</div>
+                    <div class="home-cs-details">
+                        <h4 class="home-cs-client">Give2Asia</h4>
+                        <h6 class="case-study-title">Creating an environment of trust and engagement</h6><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5c9ffd61f4c36e6b677d1b63_Home-CS-G2A-2.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
+                            srcset="https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/5c9ffd61f4c36e6b677d1b63_Home-CS-G2A-2-p-500.jpeg 500w, https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/5c9ffd61f4c36e6b677d1b63_Home-CS-G2A-2.jpg 800w"
+                            class="home-cs-mobile-image" />
+                        <p class="home-cs-description">Through a collaborative approach to product + web strategy, Give2Asia transformed the way they engage clients and serve their community.</p>
+                        <div class="small-caps">Read more &gt;</div>
+                    </div>
+                    <div class="home-cs-white-box"></div>
+                </div>
+                <div class="home-cs-image-wrapper"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5c9ffd61f4c36e6b677d1b63_Home-CS-G2A-2.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" srcset="https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/5c9ffd61f4c36e6b677d1b63_Home-CS-G2A-2-p-500.jpeg 500w, https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/5c9ffd61f4c36e6b677d1b63_Home-CS-G2A-2.jpg 800w"
+                        alt="" class="home-cs-image" /></div>
+            </a>
+            <div class="home-cs bottom-link">
+                <div class="home-cs-box-holder bottom">
+                    <div class="home-cs-details"><a href="/case-studies" class="all-case-studies-link">See All Case Studies &gt;</a></div>
+                    <div class="home-cs-white-box bottom-link"></div>
+                </div>
+            </div>
+        </div>
+        <div class="people-projects-container w-container">
+            <h2>People &amp; Projects</h2>
+            <div class="table-row">
+                <div class="table-cell year">NOW</div>
+                <div class="table-cell client">Carbon Health</div>
+                <div class="table-cell work">Product Design Leader | Driving Accessibility, Growth, &amp; Consumer Initiatives</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2020</div>
+                <div class="table-cell client">Facebook</div>
+                <div class="table-cell work">Product Design | Community Team for Groups and Online Events</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2020</div>
+                <div class="table-cell client">Givebutter</div>
+                <div class="table-cell work">Product Design, Branding, and Illustration</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2020</div>
+                <div class="table-cell client">NPR</div>
+                <div class="table-cell work">Branding for the <em>Life Kit®</em> Podcast</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2020</div>
+                <div class="table-cell client">American Heart Association</div>
+                <div class="table-cell work">Event Branding and Environmental Design for the GRFW Red Dress Collection</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2019</div>
+                <div class="table-cell client">NPR</div>
+                <div class="table-cell work">Event Branding and Environmental Design for the <em>How I Built This®</em> Summit</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2019</div>
+                <div class="table-cell client">The Athletic</div>
+                <div class="table-cell work">Branding + Marketing + Building an Employee Onboarding Toolkit</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2019</div>
+                <div class="table-cell client">NPR</div>
+                <div class="table-cell work">Branding for the <em>Invisibilia®</em> Podcast</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2019</div>
+                <div class="table-cell client">24 Hour Fitness / 24Life</div>
+                <div class="table-cell work">Product + Marketing Design</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2019</div>
+                <div class="table-cell client">Good Measure / Grounded</div>
+                <div class="table-cell work">Product + Brand + Web + Presentation Design</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2018</div>
+                <div class="table-cell client">The New York Times</div>
+                <div class="table-cell work">3 Years of Event + Environmental Design for the Higher Education Leadership Forum</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2018</div>
+                <div class="table-cell client">Give2Asia</div>
+                <div class="table-cell work">Product Design + Strategy</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2018</div>
+                <div class="table-cell client">TEDx L&#x27;Oréal</div>
+                <div class="table-cell work">Event Branding and Environmental Design</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2017</div>
+                <div class="table-cell client">24 Hour Fitness</div>
+                <div class="table-cell work">Branding for Ninja Flow, a Fitness Format by 24HF + The Genome Project</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell year">2017</div>
+                <div class="table-cell client">CIVIQ + JMC</div>
+                <div class="table-cell work">Infographic Illustration and Presentation Design</div>
+            </div>
+            <a href="https://taylordunham.dribbble.com" target="_blank" class="dribbble-link-block w-inline-block">
+                <div class="dribbble-icon-circle"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5c93a95c5bef9ba7265395f1_dribbble-icon.svg" width="21" alt="Dribbble Icon" /></div>
+                <div class="dribbble-link-text">Visit Dribbble to see more work &gt;</div>
+            </a>
+        </div>
+        </section> 
+        <section class="cta-section">
+            <div class="cta-container w-container">
+                <h3 class="cta-home-looking-for">Sound like what you’re looking for?</h3>
+                <a href="/connect" class="cta-link w-inline-block">
+                    <h3 class="cta-link-heading">Here&#x27;s the next step.</h3>
+                    <div class="link-highlight large"></div>
+                </a>
+            </div>
+        </section> --><div class="footer" style="margin-top:50px;">
+    <div class="footer-container">
+        <div class="footer-col email">
+            <h4 class="heading-4">Email</h4>
+            <p>cherylwerner@me.com<br/><span class="footer-city-span">Atlanta, GA</span></p>
+        </div>
+        <div class="footer-col giving-back">
+            <a href="/giving-back" class="cta-link giving-back w-inline-block">
+                <h3 class="cta-link-heading givingback">Giving Back</h3>
+                <div class="link-highlight medium"></div>
+            </a>
+            <p class="cura-footer-text">Empowering Visual Design<br/>For Positive Impact</p>
+        </div>
+        <div class="footer-col work-with-me">
+            <a href="/connect" class="light-button">Work with me</a>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="footer-bottom-container">
+            <p class="copyright-notice">© Cheryl Werner. All Rights Reserved.</p>
+            <div class="privacy-links">
+                <a href="/privacy-policy" class="footer-link">Privacy Policy</a>
+                <a href="/terms-of-use" class="footer-link terms">Terms of Use</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5c93a95c5bef9b2a405395da" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <script src="https://assets-global.website-files.com/5c93a95c5bef9b2a405395da/js/webflow.2385ff94d.js" type="text/javascript"></script>
+</body>
+
+</html>
