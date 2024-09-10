@@ -37,7 +37,7 @@
 <div data-collapse="small" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="header w-nav">
 <img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5c93a95c5bef9b803c5395f7_white-corner.svg" width="35" height="35" alt="" class="header-corner"/>
 <div class="nav-container"><a href="/" class="logo-link w-nav-brand">
-		Cheryl Werner
+		Cheryl <span style="font-weight:700;"> WERNER	</span>
 </a>
 <nav role="navigation" class="nav-menu w-nav-menu">
 <a href="index.html#about" class="nav-link w-nav-link">About</a>
