@@ -106,7 +106,7 @@
     </div>
     <div data-collapse="small" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="header w-nav"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5c93a95c5bef9b803c5395f7_white-corner.svg" width="35" height="35" alt="" class="header-corner" />
         <div class="nav-container"><a href="/" aria-current="page" class="logo-link w-nav-brand w--current">
-CHERYL <span style="font-weight:700;"> WERNER	</span>
+<span>CHERYL </span> WERNER	
 	</a>
             <nav
                 role="navigation" class="nav-menu w-nav-menu"><a href="#about" class="nav-link w-nav-link">About</a>
@@ -122,11 +122,11 @@ CHERYL <span style="font-weight:700;"> WERNER	</span>
                     </div>
         </div>
     </div>
-    <section class="hero-section" style="height:110vh;">
+    <section class="hero-section" >
         <div class="hero-full-container w-container">
             <div class="hero-container" >
 		   
-			   <h1 class="hero-heading" style="font-family:sans-serif;"><span style="font-weight:100 !important;">Cheryl</span> Werner</h1>
+			   <h1 class="hero-heading" id="heroTitle"><span>Cheryl</span> Werner</h1>
                <p style="" class="herop">Art Director & Project Manager</p>
 			       
 			   </div>
@@ -135,7 +135,7 @@ CHERYL <span style="font-weight:700;"> WERNER	</span>
 	
     <section
         class="center-section" style="position:relative; overflow:visible;" id="about">
-		<img src="cheryl copy.jpg" style="position:absolute; top:-90px; right:100px; width:200px;  object-fit:cover; " class="mainimg">
+		<img src="cheryl copy.jpg" class="mainimg">
         <div class="centercontainer w-container">
             <div class="columns w-row">
                 <div class="home-body-column-1 w-col w-col-12 w-col-stack" style="margin-top:-70px;">
@@ -245,8 +245,38 @@ CHERYL <span style="font-weight:700;"> WERNER	</span>
                     <h3 class="cta-link-heading">Here&#x27;s the next step.</h3>
                     <div class="link-highlight large"></div>
                 </a>
-            </div>
-        </section> --><div class="footer" style="margin-top:50px;">
+            </div> -->
+			
+			
+			<div class="footer footerCopy" >
+    <div class="footer-container">
+        <div class="footer-col email">
+            <h4 class="tiltedHeading">A WEE BIT ABOUT ME</h4>
+          </div>
+        
+		<div class="footer-col email">
+            <h4 class="heading-4">Grew up in Texas</h4>
+            <p>Complete with horses, chickens, goats and home grown vegetables. (We even had indoor plumbing!)</p>
+        </div>
+        <div class="footer-col email">
+            <h4 class="heading-4">Went to school in Ohio</h4>
+            <p>I have a BFA in photography and Graphic design (and an almost minor in Spanish).</p>
+        </div>
+        <div class="footer-col email">
+            <h4 class="heading-4">Email</h4>
+            <p>cherylwerner@me.com<br/><span class="footer-city-span">Atlanta, GA</span></p>
+        </div>
+        <div class="footer-col email">
+            <h4 class="heading-4">Email</h4>
+            <p>cherylwerner@me.com<br/><span class="footer-city-span">Atlanta, GA</span></p>
+        </div>
+        
+    </div>
+</div>
+
+
+
+        </section> <div class="footer" >
     <div class="footer-container">
         <div class="footer-col email">
             <h4 class="heading-4">Email</h4>

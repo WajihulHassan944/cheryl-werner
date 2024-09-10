@@ -106,11 +106,11 @@
     </div>
     <div data-collapse="small" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="header w-nav"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5c93a95c5bef9b803c5395f7_white-corner.svg" width="35" height="35" alt="" class="header-corner" />
         <div class="nav-container"><a href="/" aria-current="page" class="logo-link w-nav-brand w--current">
-CHERYL <span style="font-weight:700;"> WERNER	</span>
+<span>CHERYL</span>  WERNER	
 	</a>
             <nav
-                role="navigation" class="nav-menu w-nav-menu"><a href="#about" class="nav-link w-nav-link">About</a>
-				<a href="#portfolio" class="nav-link w-nav-link">Portfolio</a>
+                role="navigation" class="nav-menu w-nav-menu"><a href="index.html#about" class="nav-link w-nav-link">About</a>
+				<a href="/" class="nav-link w-nav-link">Portfolio</a>
 				<a href="Cheryl Werner.pdf" download="Cheryl_Werner_CV.pdf"  class="nav-link w-nav-link">Resume</a>
 				
 				<a href="connect.html" class="nav-link w-nav-link">Connect</a>
@@ -132,77 +132,150 @@ CHERYL <span style="font-weight:700;"> WERNER	</span>
 			<div id="portfolio" style="margin-top:-150px;">
            <h5 class="small-caps homecstitle">Portfolio of Projects</h5>
             <a href="#" class="home-cs w-inline-block">
-                <div class="home-cs-box-holder" >
+                <div class="home-cs-box-holder" style="margin-top:-15px;" >
                     <div class="home-cs-number">01</div>
                     <div class="home-cs-details">
-                        <h6 class="case-study-title"><strong>Commissioning Program 2024</strong></h6><img src="portfolio/comm24.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
+                        <h6 class="case-study-title"><strong>Advent</strong></h6><img src="portfolio/ADVENT.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
                           
                             class="home-cs-mobile-image" />
-                        <p class="home-cs-description"><br/>Commissioning Program 2024.</p>
+                        <p class="home-cs-description">Advent material was created with the theme of “All is Calm, All is Bright.”  Materials created to utilize the customization of Canva and allow for clients to change any information to benefit their usage.</p>
                       <!--  <div class="small-caps">Read more &gt;</div> -->
                     </div>
                     <div class="home-cs-white-box"></div>
                 </div>
-                <div class="home-cs-image-wrapper"><img src="portfolio/comm24.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
-                        alt="" class="home-cs-image" /></div>
+                <div class="home-cs-image-wrapper"><img src="portfolio/ADVENT.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
+                        alt="" class="home-cs-image" />
+						
+						<img src="portfolio/advent2.jpg" class="imgone" style="display:none;">
+						</div>
             </a>
             <a href="#" class="home-cs w-inline-block">
-                <div class="home-cs-box-holder">
+                <div class="home-cs-box-holder" style="margin-top:-15px;">
                     <div class="home-cs-number">02</div>
                     <div class="home-cs-details">
 					
-                        <h6 class="case-study-title"><strong>Launch Party How To Territorial Priorities</strong></h6><img src="portfolio/tp.jpg" alt="CURA heart icon" class="home-cs-mobile-image"
+                        <h6 class="case-study-title"><strong>Bible Conference</strong></h6><img src="portfolio/bible2.jpg" alt="CURA heart icon" class="home-cs-mobile-image"
                         />
-                        <p class="home-cs-description">Launch Party How To Territorial Priorities</p>
+                        <p class="home-cs-description">A 3-year-themed event for all ages.  The theme of “Kingdom Living” with a stained-glass look.  The sub-theme for this year was “Outrageous Grace”</p>
                       </div>
                     <div class="home-cs-white-box"></div>
                 </div>
-                <div class="home-cs-image-wrapper"><img src="portfolio/tp.jpg" width="400" alt="" class="home-cs-image" /></div>
+                <div class="home-cs-image-wrapper"><img src="portfolio/bible2.jpg" width="400" alt="" class="home-cs-image" />
+				<img src="portfolio/454707313_907286311437631_2636538988070964285_n.jpg" class="imgone" style="display:none;">
+						</div>
             </a>
             <a href="#" class="home-cs w-inline-block">
-                <div class="home-cs-box-holder">
+                <div class="home-cs-box-holder" style="margin-top:-15px;">
                     <div class="home-cs-number">03</div>
                     <div class="home-cs-details">
 					
-                        <h6 class="case-study-title"><strong>Advent program</strong></h6><img src="portfolio/ADVENT.jpg" alt="CURA heart icon" class="home-cs-mobile-image"
+                        <h6 class="case-study-title"><strong>Commissioning 22</strong></h6><img src="portfolio/comm22.jpg" alt="CURA heart icon" class="home-cs-mobile-image"
                         />
-                        <p class="home-cs-description">Advent program.</p>
+                        <p class="home-cs-description">A weekend event that celebrates the Ordination of Salvation Army ministers.  The theme was “Rise Up” using this style of flame logo.  The client asked for something brighter with the color variations of red, yellow, and blue.</p>
                     </div>
                     <div class="home-cs-white-box"></div>
                 </div>
-                <div class="home-cs-image-wrapper"><img src="portfolio/ADVENT.jpg" width="400" alt="" class="home-cs-image" /></div>
+                <div class="home-cs-image-wrapper"><img src="portfolio/comm22.jpg" width="400" alt="" class="home-cs-image" />
+				<img src="portfolio/slides copy.jpg" class="imgone" style="display:none;">
+						</div>
             </a>
             <a href="#" class="home-cs w-inline-block">
-                <div class="home-cs-box-holder">
+                <div class="home-cs-box-holder" style="margin-top:-15px;">
                     <div class="home-cs-number">04</div>
                     <div class="home-cs-details">
 					
-                        <h6 class="case-study-title">TWOR Program</h6><img src="portfolio/2024-Flourish-19-Edited-0167.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
+                        <h6 class="case-study-title">Commissioning 24</h6><img src="portfolio/comm24.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
                           						  class="home-cs-mobile-image" />
-                        <p class="home-cs-description">TWOR Program</p>
+                        <p class="home-cs-description">A weekend event that celebrates the Ordination of Salvation Army ministers.  The theme for this year was “Walking Like Jesus” with an emphasis on the color yellow.  The focus of this was something more abstract with Jesus being “hidden” in the design to some extent.</p>
                      </div>
                     <div class="home-cs-white-box"></div>
                 </div>
-                <div class="home-cs-image-wrapper"><img src="portfolio/2024-Flourish-19-Edited-0167.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
+                <div class="home-cs-image-wrapper"><img src="portfolio/comm24.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
 				
-                        alt="" class="home-cs-image" /></div>
+                        alt="" class="home-cs-image" />
+						<img src="portfolio/IMG_1627.jpg" class="imgone" style="display:none;">
+						</div>
             </a>
 			
 			
             <a href="#" class="home-cs w-inline-block">
-                <div class="home-cs-box-holder">
+                <div class="home-cs-box-holder" style="margin-top:-15px;">
                     <div class="home-cs-number">05</div>
                     <div class="home-cs-details">
 					
-                        <h6 class="case-study-title">Rise Up - Commissioning 2022 Saturday Breakout Sessions_CH-13</h6><img src="portfolio/comm22.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
+                        <h6 class="case-study-title">Twor</h6><img src="portfolio/twor.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
                             class="home-cs-mobile-image" />
-                        <p class="home-cs-description">Rise Up - Commissioning 2022 Saturday Breakout Sessions_CH-13</p>
+                        <p class="home-cs-description">An event for Women Salvation Army ministers to come to have fellowship and be spiritually rejuvenated.  The theme was “Flourish” with the idea centered around the seasons of the year.</p>
                      </div>
                     <div class="home-cs-white-box"></div>
                 </div>
-                <div class="home-cs-image-wrapper"><img src="portfolio/comm22.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
+                <div class="home-cs-image-wrapper"><img src="portfolio/twor.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
 				
-                        alt="" class="home-cs-image" /></div>
+                        alt="" class="home-cs-image" />
+						<img src="portfolio/2024-Flourish-16-Edited009.jpg" class="imgone" style="display:none;">
+						</div>
+            </a>
+			
+			
+			
+            <a href="#" class="home-cs w-inline-block">
+                <div class="home-cs-box-holder" style="margin-top:-15px;">
+                    <div class="home-cs-number">06</div>
+                    <div class="home-cs-details">
+					
+                        <h6 class="case-study-title">TYI 24</h6><img src="portfolio/tyi24 copy.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
+                            class="home-cs-mobile-image" />
+                        <p class="home-cs-description">Youth Event tailored for teens between the ages of 14 and 24.  Given the theme “Set Apart” and scripture John 17:14 with the concept of not going with the crowd but being an individual.
+						</p>
+                     </div>
+                    <div class="home-cs-white-box"></div>
+                </div>
+                <div class="home-cs-image-wrapper"><img src="portfolio/tyi24 copy.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
+				
+                        alt="" class="home-cs-image" />
+						<img src="portfolio/advent2.jpg" class="imgone" style="display:none;">
+						</div>
+            </a>
+			
+			
+			
+            <a href="#" class="home-cs w-inline-block">
+                <div class="home-cs-box-holder" style="margin-top:-15px;">
+                    <div class="home-cs-number">07</div>
+                    <div class="home-cs-details">
+					
+                        <h6 class="case-study-title">Logos</h6><img src="portfolio/logos-07.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
+                            class="home-cs-mobile-image" />
+                        <p class="home-cs-description">A Storytelling tool allowing for visual representation that customers associate with their brand, creating a connection and facilitating recognition and understanding.</p>
+                     </div>
+                    <div class="home-cs-white-box"></div>
+                </div>
+                <div class="home-cs-image-wrapper"><img src="portfolio/logos-07.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
+				
+                        alt="" class="home-cs-image" />
+						<img src="portfolio/advent2.jpg" class="imgone" style="display:none;">
+						</div>
+            </a>
+			
+			
+			
+            <a href="#" class="home-cs w-inline-block">
+                <div class="home-cs-box-holder" style="margin-top:-15px;">
+                    <div class="home-cs-number">08</div>
+                    <div class="home-cs-details">
+					
+                        <h6 class="case-study-title">Territorial Priorities</h6><img src="portfolio/tp.jpg" alt="CURA heart icon" sizes="(max-width: 479px) 69vw, (max-width: 767px) 79vw, 100vw"
+                            class="home-cs-mobile-image" />
+                        <p class="home-cs-description">The Salvation Army’s 3-year theme allows us to focus on and highlight different areas of ministry, encouraging new energy and revitalization in the churches and communities.
+						</p>
+                     </div>
+                    <div class="home-cs-white-box"></div>
+                </div>
+                <div class="home-cs-image-wrapper"><img src="portfolio/tp.jpg" width="400" sizes="(max-width: 767px) 100vw, 400px" 
+				
+                        alt="" class="home-cs-image" />
+						<img src="portfolio/banners copy.jpg" class="imgone" style="display:none;">
+						</div>
             </a>
 			
 			
@@ -218,14 +291,17 @@ CHERYL <span style="font-weight:700;"> WERNER	</span>
         <h6 id="popup-title"></h6>
         <img id="popup-image" src="" alt="Popup Image" />
         <p id="popup-description"></p>
+        <!-- Iframe to display the PDF -->
+        <iframe id="popup-pdf" src="" width="100%" height="400px" style="border:none;"></iframe>
+		 <img id="popup-image-two" src="" alt="Popup Image" />
     </div>
 </div>
 
 
 
+
         </div>
-<script>
-// Get the modal
+<script>// Get the modal
 var modal = document.getElementById("popup-modal");
 
 // Get the <span> element that closes the modal
@@ -243,11 +319,41 @@ portfolioLinks.forEach(function (link) {
         var title = link.querySelector(".case-study-title").innerText;
         var description = link.querySelector(".home-cs-description").innerText;
         var imageSrc = link.querySelector(".home-cs-mobile-image").src;
+var imageSrcTwo = link.querySelector(".imgone").src;
 
         // Set the modal content
         document.getElementById("popup-title").innerText = title;
         document.getElementById("popup-description").innerText = description;
         document.getElementById("popup-image").src = imageSrc;
+		document.getElementById("popup-image-two").src = imageSrcTwo;
+
+        // Set the correct PDF based on the title
+        var pdfSrc = "";
+        switch (title) {
+            case "Advent":
+                pdfSrc = "pdfs/advent.pdf";
+                break;
+            case "Bible Conference":
+                pdfSrc = "pdfs/bible2.pdf";
+                break;
+            case "Commissioning 24":
+                pdfSrc = "pdfs/Comm24.pdf";
+                break;
+            case "Twor":
+                pdfSrc = "pdfs/TWOR.pdf";
+                break;
+            case "Territorial Priorities":
+                pdfSrc = "pdfs/Territorial Priorities.pdf";
+                break;
+            case "TYI 24":
+                pdfSrc = "pdfs/tyi24 copy.pdf";
+                break;
+            default:
+                pdfSrc = ""; // No PDF if no match
+        }
+
+        // Set the PDF iframe source
+        document.getElementById("popup-pdf").src = pdfSrc;
 
         // Display the modal
         modal.style.display = "block";
@@ -257,107 +363,24 @@ portfolioLinks.forEach(function (link) {
 // Close the modal when the user clicks the close button
 closeBtn.onclick = function() {
     modal.style.display = "none";
+    document.getElementById("popup-pdf").src = ""; // Clear the PDF when modal closes
 }
 
 // Close the modal if the user clicks outside of the modal content
 window.onclick = function(event) {
     if (event.target == modal) {
         modal.style.display = "none";
+        document.getElementById("popup-pdf").src = ""; // Clear the PDF when modal closes
     }
 }
-</script>
-      <!--  <div class="people-projects-container w-container">
-            <h2>People &amp; Projects</h2>
-            <div class="table-row">
-                <div class="table-cell year">NOW</div>
-                <div class="table-cell client">Carbon Health</div>
-                <div class="table-cell work">Product Design Leader | Driving Accessibility, Growth, &amp; Consumer Initiatives</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2020</div>
-                <div class="table-cell client">Facebook</div>
-                <div class="table-cell work">Product Design | Community Team for Groups and Online Events</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2020</div>
-                <div class="table-cell client">Givebutter</div>
-                <div class="table-cell work">Product Design, Branding, and Illustration</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2020</div>
-                <div class="table-cell client">NPR</div>
-                <div class="table-cell work">Branding for the <em>Life Kit®</em> Podcast</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2020</div>
-                <div class="table-cell client">American Heart Association</div>
-                <div class="table-cell work">Event Branding and Environmental Design for the GRFW Red Dress Collection</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2019</div>
-                <div class="table-cell client">NPR</div>
-                <div class="table-cell work">Event Branding and Environmental Design for the <em>How I Built This®</em> Summit</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2019</div>
-                <div class="table-cell client">The Athletic</div>
-                <div class="table-cell work">Branding + Marketing + Building an Employee Onboarding Toolkit</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2019</div>
-                <div class="table-cell client">NPR</div>
-                <div class="table-cell work">Branding for the <em>Invisibilia®</em> Podcast</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2019</div>
-                <div class="table-cell client">24 Hour Fitness / 24Life</div>
-                <div class="table-cell work">Product + Marketing Design</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2019</div>
-                <div class="table-cell client">Good Measure / Grounded</div>
-                <div class="table-cell work">Product + Brand + Web + Presentation Design</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2018</div>
-                <div class="table-cell client">The New York Times</div>
-                <div class="table-cell work">3 Years of Event + Environmental Design for the Higher Education Leadership Forum</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2018</div>
-                <div class="table-cell client">Give2Asia</div>
-                <div class="table-cell work">Product Design + Strategy</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2018</div>
-                <div class="table-cell client">TEDx L&#x27;Oréal</div>
-                <div class="table-cell work">Event Branding and Environmental Design</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2017</div>
-                <div class="table-cell client">24 Hour Fitness</div>
-                <div class="table-cell work">Branding for Ninja Flow, a Fitness Format by 24HF + The Genome Project</div>
-            </div>
-            <div class="table-row">
-                <div class="table-cell year">2017</div>
-                <div class="table-cell client">CIVIQ + JMC</div>
-                <div class="table-cell work">Infographic Illustration and Presentation Design</div>
-            </div>
-            <a href="https://taylordunham.dribbble.com" target="_blank" class="dribbble-link-block w-inline-block">
-                <div class="dribbble-icon-circle"><img src="https://cdn.prod.website-files.com/5c93a95c5bef9b2a405395da/5c93a95c5bef9ba7265395f1_dribbble-icon.svg" width="21" alt="Dribbble Icon" /></div>
-                <div class="dribbble-link-text">Visit Dribbble to see more work &gt;</div>
-            </a>
-        </div>
-        </section> 
-        <section class="cta-section">
-            <div class="cta-container w-container">
-                <h3 class="cta-home-looking-for">Sound like what you’re looking for?</h3>
-                <a href="/connect" class="cta-link w-inline-block">
-                    <h3 class="cta-link-heading">Here&#x27;s the next step.</h3>
-                    <div class="link-highlight large"></div>
-                </a>
-            </div>
-        </section> --><div class="footer" style="margin-top:50px;">
+
+</script></section> 
+
+
+
+
+
+<div class="footer">
     <div class="footer-container">
         <div class="footer-col email">
             <h4 class="heading-4">Email</h4>
